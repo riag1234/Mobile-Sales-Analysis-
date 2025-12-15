@@ -23,11 +23,6 @@ brand-wise analysis to support data-driven business decisions.
 - Visuals including bar charts, line charts, and pie charts
 - User-friendly and interactive dashboard design
 
-## 📂 Project Files
-- `Mobile_Sales_Analysis.pbix` – Power BI dashboard file
-- `data/mobile_sales_data.csv` – Dataset used for analysis
-- `mobile_sales_dashbaord/` – Dashbaoard Preview
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
